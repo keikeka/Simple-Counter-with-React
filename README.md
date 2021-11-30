@@ -20,6 +20,6 @@ It verifies that the component is working and indicates the corresponding second
 
 ## Contributions
 
-I'd love to get your appreciation or report on the code at https://github.com/keikeka/exercise-conditional-profile-card
+I'd love to get your appreciation or report on the code at https://github.com/keikeka/Simple-Counter-with-React
 
 Thank you very much!
